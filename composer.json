@@ -55,5 +55,7 @@
           "type": "vcs",
           "url": "https://github.com/akaragachev/robo"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
