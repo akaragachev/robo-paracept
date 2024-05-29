@@ -49,5 +49,11 @@
             "@codestyle",
             "@unit"
         ]
-    }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/akaragachev/robo"
+        }
+    ]
 }
