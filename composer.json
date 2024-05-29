@@ -15,7 +15,7 @@
     },
     "require": {
         "php": "^7.4 | ^8.0",
-        "consolidation/robo": "3.0.*",
+        "consolidation/robo": "dev-bugfix",
         "symfony/finder": ">=2.7 <6.0",
         "ext-dom": "*",
         "ext-libxml": "*",
@@ -49,5 +49,11 @@
             "@codestyle",
             "@unit"
         ]
-    }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/akaragachev/robo"
+        }
+    ]
 }
