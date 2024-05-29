@@ -15,7 +15,7 @@
     },
     "require": {
         "php": "^8.0",
-        "consolidation/robo": "dev-4.0.2-bugfix",
+        "consolidation/robo": "dev-4.0.2-bugfix@dev",
         "symfony/finder": ">=4.4.24 <7.0",
         "ext-dom": "*",
         "ext-libxml": "*",
